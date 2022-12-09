@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RishatTalukder
+- 👀 I’m interested in ... Machine Learning
+- 🌱 I’m currently learning ... Djnago
+- 💞️ I’m looking to collaborate on ... a Machine Learning Project
+- 📫 How to reach me ... talukderrishat2@gmail.com

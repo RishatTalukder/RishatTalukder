@@ -24,7 +24,7 @@ I am a passionate programmer and content creator with extensive experience in bo
 
 ### LeetCode Profile 🧠
 
-- **LeetCode Profile:** [here]([Link to your LeetCode profile](https://leetcode.com/u/itvaya1234/))
+- **LeetCode Profile:** [here](https://leetcode.com/u/itvaya1234/)
 - **Rating:** 1365
 
 

@@ -1,36 +1,28 @@
-## MD. RISHAT TALUKDER 🚀
+# MD. RISHAT TALUKDER
 
-### About Me 🌟
+**Machine Learning Developer | Content Creator**
 
-I am a passionate programmer and content creator with extensive experience in both front-end and back-end development. I have a strong command of languages such as Python, JavaScript, C++, and Java. My projects span various domains, including web development with Django and React, game development with Pygame, and machine learning and AI.
+I'm a developer focused on **Machine Learning, Deep Learning, and AI**, with a strong interest in building practical projects and exploring how things work under the hood.
 
-### Skills 🛠️
+I'm also the creator of **[IT VAYA](https://www.youtube.com/@ITVAYA)**, where I create programming and AI educational content in Bangla, helping others learn through practical explanations and hands-on projects.
 
-- **Languages:** Python, JS, java, c++, Bashscript, PostrgeSQl, MYSQL, HTML, CSS
-- **Frameworks:** Django, React
-- **Libraries:** Pygame, TensorFlow, Scikit-learn
-- **Tools:** Git, Docker, Jenkins
+### Tech Stack
 
-### Projects 🚧
+- **Languages:** Python, C++, JavaScript, SQL
+- **Machine Learning:** TensorFlow, Scikit-learn, NumPy, Pandas
+- **Web Development:** Django, React, FastAPI
+- **Tools:** Git, Docker, Linux
 
-#### Web Development 🌐
+### What I Do
 
-- **EASY-BUY**: An e-commerce website built with Django and React that allows users to Buy and sell products easily.
-- **RECOMMENDATION SYSTEM**: A Recommendation system with machine learning model that recommends Music according to user's mood.
+- Build machine learning and deep learning projects.
+- Explore neural networks, model architectures, and AI applications.
+- Create educational programming and AI content.
+- Develop full-stack applications and developer tools.
 
-#### Game Development 🎮
+### Find Me Online
 
-- **LAFALAFI**: A clone of the popular Dino-game in chrome browser built with Pygame.  
-
-### LeetCode Profile 🧠
-
-- **LeetCode Profile:** [here](https://leetcode.com/u/itvaya1234/)
-- **Rating:** 1365
-
-
-### Contact 📬
-
+- **YouTube:** [IT VAYA](https://www.youtube.com/@ITVAYA)
+- **LeetCode:** [itvaya1234](https://leetcode.com/u/itvaya1234/)
+- **LinkedIn:** [pro-programmer](https://www.linkedin.com/in/pro-programmer/)
 - **Email:** talukderrishat2@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/pro-programmer/
-
-Feel free to reach out to me if you have any questions or would like to discuss potential opportunities. Thank you for visiting my GitHub profile! 😊
